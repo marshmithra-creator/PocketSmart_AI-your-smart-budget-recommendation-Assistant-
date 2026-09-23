@@ -1,1 +1,40 @@
+### Requirement Analysis Phase
+
+The **Requirement Analysis Phase** is the stage of software development in which the needs and expectations of stakeholders are identified, studied, documented, and validated before designing or developing the system.
+
+#### Main Activities
+
+1. **Requirement Gathering**
+
+   * Collect requirements from customers, users, managers, and other stakeholders.
+   * Techniques include interviews, questionnaires, observation, surveys, and meetings.
+
+2. **Requirement Analysis**
+
+   * Examine the collected requirements.
+   * Identify ambiguities, conflicts, missing requirements, and unnecessary features.
+   * Determine technical and operational constraints.
+
+3. **Requirement Classification**
+
+   * **Functional requirements:** Describe what the system should do.
+   * **Non-functional requirements:** Describe qualities such as performance, security, reliability, usability, and scalability.
+   * **Business requirements:** Define the overall goals of the organization or project.
+
+4. **Requirement Prioritization**
+
+   * Requirements are prioritized according to importance, urgency, cost, and feasibility.
+
+5. **Requirement Documentation**
+
+   * Requirements are formally documented in a **Software Requirements Specification (SRS)** document.
+
+6. **Requirement Validation**
+
+   * Verify that requirements are correct, complete, consistent, feasible, and testable.
+   * Stakeholders review and approve the requirements.
+
+#### Output
+
+The primary output of this phase is the **SRS document**, which serves as a foundation for the subsequent **system design, development, and testing phases**.
 
