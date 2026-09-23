@@ -1,1 +1,23 @@
+POCKETSMART-AI
 
+Your Smart Budget Recommendation Assistant
+
+Project Overview:
+PocketSmart-AI is an intelligent personal budgeting assistant designed to help users track expenses, manage income, control spending, and improve savings. The system analyzes users' financial information and provides personalized budget recommendations based on their spending patterns and financial goals.
+
+Key Features
+💰 Income and expense tracking
+📊 Category-wise spending analysis
+🤖 AI-powered budget recommendations
+🎯 Financial goal planning
+🚨 Overspending alerts
+💡 Personalized saving suggestions
+📈 Financial dashboard and reports
+🔮 Spending pattern analysis
+Project Workflow
+
+User Input → Expense Analysis → AI Processing → Budget Recommendation → Personalized Suggestions → Goal Tracking
+
+One-line Pitch
+
+“PocketSmart-AI turns your spending data into smart, personalized budgeting decisions.”
